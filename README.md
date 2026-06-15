@@ -57,7 +57,7 @@ Once the concepts are identified, Gemini 3 generates:
 - Narration-ready scripts for short-form delivery.
 - Fandom or narrative wrappers that make abstract content feel emotionally engaging.
 
-This makes it possible to explain a concept like \(F = ma\) not only as a formula, but as a memorable event inside a story world the learner already understands.
+This makes it possible to explain a concept like $F = ma$ not only as a formula, but as a memorable event inside a story world the learner already understands.
 
 **3. Dynamic feed and mastery tracking**
 The generated lessons are sequenced into an infinite feed. As a student progresses, Eduflix tracks which objectives are completed and how much of the syllabus has been covered.
@@ -108,8 +108,8 @@ We want to add:
 In the long run, we want Eduflix to become a STEM learning layer that sits between entertainment and education — a system where scrolling can genuinely lead to mastery.
 
 For example, instead of passively consuming content, a student could move through a sequence like:
-\[
+$$
 \text{Limits} \rightarrow \text{Derivatives} \rightarrow \text{Applications of Derivatives} \rightarrow \text{Optimization}
-\]
+$$
 
 That is the future we are building toward: turning short attention into long-term understanding.

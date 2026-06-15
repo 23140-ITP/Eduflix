@@ -108,6 +108,7 @@ We want to add:
 In the long run, we want Eduflix to become a STEM learning layer that sits between entertainment and education — a system where scrolling can genuinely lead to mastery.
 
 For example, instead of passively consuming content, a student could move through a sequence like:
+
 $$
 \text{Limits} \rightarrow \text{Derivatives} \rightarrow \text{Applications of Derivatives} \rightarrow \text{Optimization}
 $$
